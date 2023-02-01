@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\bin\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\bin\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\bin\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\bin\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\bin\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\refint\INVERTIR_NÚMERO_DE_TRES_CIFRAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\INVERTIR_NÚMERO_DE_TRES_CIFRAS.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\2_INVERTIR_NÚMERO_DE_TRES_CIFRAS\obj\Debug\net6.0\ref\INVERTIR_NÚMERO_DE_TRES_CIFRAS.dll

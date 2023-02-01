@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\bin\Debug\net6.0\8_FACTORIAL_RECURSIVO.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\bin\Debug\net6.0\8_FACTORIAL_RECURSIVO.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\bin\Debug\net6.0\8_FACTORIAL_RECURSIVO.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\bin\Debug\net6.0\8_FACTORIAL_RECURSIVO.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\bin\Debug\net6.0\8_FACTORIAL_RECURSIVO.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\refint\8_FACTORIAL_RECURSIVO.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\8_FACTORIAL_RECURSIVO.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_FACTORIAL_RECURSIVO\obj\Debug\net6.0\ref\8_FACTORIAL_RECURSIVO.dll

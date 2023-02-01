@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\bin\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\bin\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\bin\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\bin\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\bin\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\refint\4_UTILIZANDO_LA_CLASE_MATCH.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\4_UTILIZANDO_LA_CLASE_MATCH.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\4_UTILIZANDO_LA_CLASE_MATCH\obj\Debug\net6.0\ref\4_UTILIZANDO_LA_CLASE_MATCH.dll

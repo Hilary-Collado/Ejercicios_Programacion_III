@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\bin\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\bin\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\bin\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\bin\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\bin\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\refint\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\1_INVERTIR_NUMERO_DE_DOS_CIFRAS\obj\Debug\net6.0\ref\1_INVERTIR_NUMERO_DE_DOS_CIFRAS.dll

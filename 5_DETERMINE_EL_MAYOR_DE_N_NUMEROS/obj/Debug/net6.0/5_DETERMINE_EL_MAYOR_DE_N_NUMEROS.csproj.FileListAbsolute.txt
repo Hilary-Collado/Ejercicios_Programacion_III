@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\bin\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\bin\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\bin\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\bin\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\bin\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\refint\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS\obj\Debug\net6.0\ref\5_DETERMINE_EL_MAYOR_DE_N_NUMEROS.dll

@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\bin\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\bin\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\bin\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\bin\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\bin\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\refint\3_DADO_DOS_N_OPERACIONES_BASICAS.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\3_DADO_DOS_N_OPERACIONES_BASICAS.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\3_DADO_DOS_N_OPERACIONES_BASICAS\obj\Debug\net6.0\ref\3_DADO_DOS_N_OPERACIONES_BASICAS.dll

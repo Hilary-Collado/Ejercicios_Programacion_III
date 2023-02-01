@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\bin\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\bin\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\bin\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\bin\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\bin\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\refint\8_CIFRAS _NUMERO_ENTERO.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\8_CIFRAS _NUMERO_ENTERO.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\8_CIFRAS _NUMERO_ENTERO\obj\Debug\net6.0\ref\8_CIFRAS _NUMERO_ENTERO.dll

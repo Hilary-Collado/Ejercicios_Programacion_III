@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\bin\Debug\net6.0\6_DIA_DE_LA_SEMANA.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\bin\Debug\net6.0\6_DIA_DE_LA_SEMANA.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\bin\Debug\net6.0\6_DIA_DE_LA_SEMANA.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\bin\Debug\net6.0\6_DIA_DE_LA_SEMANA.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\bin\Debug\net6.0\6_DIA_DE_LA_SEMANA.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\refint\6_DIA_DE_LA_SEMANA.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\6_DIA_DE_LA_SEMANA.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\6_DIA_DE_LA_SEMANA\obj\Debug\net6.0\ref\6_DIA_DE_LA_SEMANA.dll

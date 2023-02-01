@@ -1,0 +1,15 @@
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\bin\Debug\net6.0\10_NUMERO_A_LETRA.exe
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\bin\Debug\net6.0\10_NUMERO_A_LETRA.deps.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\bin\Debug\net6.0\10_NUMERO_A_LETRA.runtimeconfig.json
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\bin\Debug\net6.0\10_NUMERO_A_LETRA.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\bin\Debug\net6.0\10_NUMERO_A_LETRA.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.csproj.AssemblyReference.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.AssemblyInfoInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.AssemblyInfo.cs
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.csproj.CoreCompileInputs.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\refint\10_NUMERO_A_LETRA.dll
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.pdb
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\10_NUMERO_A_LETRA.genruntimeconfig.cache
+C:\Users\ismar\Desktop\tarea1_programacion_3\10_NUMERO_A_LETRA\obj\Debug\net6.0\ref\10_NUMERO_A_LETRA.dll
